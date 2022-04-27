@@ -34,7 +34,7 @@ public class FlinkSql {
                 .build();
 
         TableEnvironment tEnv = TableEnvironment.create(settings);
-        
+
     }
 
 }
